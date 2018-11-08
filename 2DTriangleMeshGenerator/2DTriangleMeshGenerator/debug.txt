@@ -1,0 +1,199 @@
+ToConnect == 0
+point: 6
+right: 19
+left: 16
+ch[0] = 16
+ch[1] = 9
+ch[2] = 19
+
+
+ToConnect == 0
+point: 3
+right: 6
+left: 16
+ch[0] = 16
+ch[1] = 9
+ch[2] = 19
+ch[3] = 6
+
+
+ToConnect = 2
+point: 2
+right: 9
+left: 3
+first: 19
+last: 6
+ch[0] = 16
+ch[1] = 9
+ch[2] = 19
+ch[3] = 6
+ch[4] = 3
+toConnect[0] = 19
+toConnect[1] = 6
+
+
+ToConnect == 0
+point: 4
+right: 2
+left: 3
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 2
+
+
+ToConnect == 1
+point: 8
+right: 2
+left: 3
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 2
+ch[4] = 4
+toConnect[0] = 4
+
+
+ToConnect == 0
+point: 17
+right: 2
+left: 8
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 2
+ch[4] = 8
+
+
+ToConnect == 1
+point: 13
+right: 17
+left: 3
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 2
+ch[4] = 8
+ch[5] = 17
+toConnect[0] = 8
+
+
+ToConnect == 1
+point: 11
+right: 2
+left: 13
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 2
+ch[4] = 17
+ch[5] = 13
+toConnect[0] = 17
+
+
+ToConnect == 1
+point: 5
+right: 2
+left: 13
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 2
+ch[4] = 13
+ch[5] = 11
+toConnect[0] = 11
+
+
+ToConnect == 1
+point: 10
+right: 2
+left: 13
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 2
+ch[4] = 13
+ch[5] = 5
+toConnect[0] = 5
+
+
+ToConnect == 0
+point: 1
+right: 10
+left: 13
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 2
+ch[4] = 13
+ch[5] = 10
+
+
+ToConnect = 2
+point: 7
+right: 9
+left: 1
+first: 2
+last: 10
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 2
+ch[4] = 13
+ch[5] = 10
+ch[6] = 1
+toConnect[0] = 2
+toConnect[1] = 10
+
+
+ToConnect == 0
+point: 18
+right: 7
+left: 1
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 13
+ch[4] = 1
+ch[5] = 7
+
+
+ToConnect == 0
+point: 12
+right: 18
+left: 1
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 13
+ch[4] = 1
+ch[5] = 7
+ch[6] = 18
+
+
+ToConnect == 0
+point: 14
+right: 18
+left: 0
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 7
+ch[4] = 18
+ch[5] = 0
+
+
+ToConnect == 1
+point: 15
+right: 7
+left: 14
+ch[0] = 16
+ch[1] = 9
+ch[2] = 3
+ch[3] = 7
+ch[4] = 18
+ch[5] = 0
+ch[6] = 14
+toConnect[0] = 18
+
+
